@@ -1,8 +1,9 @@
 let CONST = require("./const");
 
 module.exports = {
-	title: 'VuePress 시작!',
-	description: 'Hello World',
+	title: 'TIL (Today I Learned) by zillionst',
+	description: 'zillionst',
+	base: "/TIL/",
 	themeConfig: {
 		nav: [
 			{
@@ -15,9 +16,17 @@ module.exports = {
 		],
 		sidebar: [
 			{
-				title: 'VuePress',   // required
+				title:  '1. JavaScript',
+				children: CONST.JavaScript
+			},
+			{
+				title: '2. VuePress',   // required
 				children: CONST.VuePress
 			},
+			{
+				title: '3. MarkDown',
+				children: CONST.MarkDown
+			}
 		]
 	}
 };
