@@ -4,6 +4,7 @@ module.exports = {
 	title: 'TIL (Today I Learned) by zillionst',
 	description: 'zillionst',
 	base: "/TIL/",
+	dest: "docs",
 	themeConfig: {
 		nav: [
 			{
