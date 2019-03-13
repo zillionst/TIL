@@ -27,6 +27,10 @@ module.exports = {
 			{
 				title: '3. MarkDown',
 				children: CONST.MarkDown
+			},
+			{
+				title: '4. LeetCode',
+				children: CONST.LeetCode
 			}
 		]
 	}

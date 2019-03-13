@@ -11,3 +11,7 @@ exports.JavaScript = [
 exports.MarkDown = [
 	'MarkDown/markDown'
 ];
+
+exports.LeetCode = [
+	'LeetCode/merge-two-sorted-lists'
+]
