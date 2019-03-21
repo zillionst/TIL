@@ -17,5 +17,6 @@ exports.LeetCode = [
 	'LeetCode/valid-parentheses',
 	'LeetCode/first-unique-character-in-a-string',
 	'LeetCode/jewels-and-stones',
-	'LeetCode/two-sum'
+	'LeetCode/two-sum',
+	'LeetCode/remove-duplicates-from-sorted-array'
 ]
