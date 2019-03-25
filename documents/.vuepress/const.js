@@ -18,5 +18,6 @@ exports.LeetCode = [
 	'LeetCode/first-unique-character-in-a-string',
 	'LeetCode/jewels-and-stones',
 	'LeetCode/two-sum',
-	'LeetCode/remove-duplicates-from-sorted-array'
+	'LeetCode/remove-duplicates-from-sorted-array',
+	'LeetCode/reverse-linked-list'
 ]
