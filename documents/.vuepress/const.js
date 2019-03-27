@@ -19,5 +19,6 @@ exports.LeetCode = [
 	'LeetCode/jewels-and-stones',
 	'LeetCode/two-sum',
 	'LeetCode/remove-duplicates-from-sorted-array',
-	'LeetCode/reverse-linked-list'
+	'LeetCode/reverse-linked-list',
+	'LeetCode/minimum-depth-of-binary-tree'
 ]

@@ -6,7 +6,7 @@ URL: <https://leetcode.com/problems/merge-two-sorted-lists/submissions/>
 > Memory Usage: 36.2 MB, less than 12.81% of JavaScript online submissions for Merge Two Sorted Lists.
 
 
-두 개의 리스트를 하나로 합치는 문제
+- 두 개의 리스트를 하나로 합치는 문제
 
 ````javascript
 /**

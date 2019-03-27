@@ -5,9 +5,9 @@ URL: <https://leetcode.com/problems/jewels-and-stones/>
 > Runtime: 64 ms, faster than 78.35% of JavaScript online submissions for Jewels and Stones.
 > Memory Usage: 34.9 MB, less than 20.85% of JavaScript online submissions for Jewels and Stones.
 
-설명은 주얼이니 타입이니 복잡하게 되어있으나
+- 설명은 주얼이니 타입이니 복잡하게 되어있으나
 주어지는 두 개의 문자열 J, S에서 J의 각 문자열이 S에 몇 개 들었는지를 리턴하는 문제
-두 번의 루프로 간단하게 해결 가능하다.
+- 두 번의 루프로 간단하게 해결 가능하다.
 
 ````javascript
 /**

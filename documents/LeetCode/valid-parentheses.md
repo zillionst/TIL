@@ -6,9 +6,9 @@ URL: <https://leetcode.com/problems/valid-parentheses/>
 > Memory Usage: 35.1 MB, less than 15.79% of JavaScript online submissions for Valid Parentheses.
 
 
- '(', ')', '{', '}', '['로 이루어진 문자열을 주어지고
+ - '(', ')', '{', '}', '['로 이루어진 문자열을 주어지고
  해당 문자열이 밎는 쌍으로 바르게 짝지어졌는가를 판단하는 문제
- 별로 효율적이지 않았다...
+ - 별로 효율적이지 않았다...
 
 ````javascript
 /**
