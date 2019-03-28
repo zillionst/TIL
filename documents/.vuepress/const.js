@@ -20,5 +20,6 @@ exports.LeetCode = [
 	'LeetCode/two-sum',
 	'LeetCode/remove-duplicates-from-sorted-array',
 	'LeetCode/reverse-linked-list',
-	'LeetCode/minimum-depth-of-binary-tree'
+	'LeetCode/minimum-depth-of-binary-tree',
+	'LeetCode/remove-element',
 ]
